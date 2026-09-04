@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Climate data
+data/*.nc
+data/*.grib
+data/*.grib2
+
+# Jupyter
+.ipynb_checkpoints/
