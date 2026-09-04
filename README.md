@@ -1,2 +1,5 @@
-# climate-ml-era5
-A climate machine learning project using ERA5 data for extreme temperature prediction and interpretable ML.
+ERA5 Climate ML Tutorial
+
+A learning project exploring temporal validation,
+climatological anomalies, classification metrics,
+class imbalance and interpretable ML using ERA5 data.
